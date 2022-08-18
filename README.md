@@ -28,6 +28,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/willypedroso//blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/willypedroso/blob/output/snake.svg" alt="Snake animation" />
 
 ###
