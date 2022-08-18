@@ -27,3 +27,7 @@
 </div>
 
 ###
+
+<img href="https://raw.githubusercontent.com/willypedroso/willypedroso/blob/output/snake.svg" alt="Snake animation" />
+
+###
