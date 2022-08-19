@@ -42,4 +42,4 @@
 </div>
 
 
-<h2 align="left">Creator and maintainer of the <a href="https://gitflix-br.vercel.app"><img src="./gitflix-logo.png" target="_blank" height="30" style= "marginBottom: -5"></a> project</h2>
+<h2 align="left">Creator and maintainer of the <a href="https://gitflix-br.vercel.app"><img src="./gitflix-logo.png" target="_blank" height="20"></a> project</h2>
