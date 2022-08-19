@@ -41,6 +41,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=willypedroso" height="150" alt="languages graph"  />
 </div>
 
-###
 
 <h2 align="left">Creator and maintainer of the project: </h2> <a href="https://gitflix-br.vercel.app"><img src="./gitflix-logo.png" target="_blank" height="30"></a>
