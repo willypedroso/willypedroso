@@ -42,4 +42,4 @@
 </div>
 
 
-<h2 align="left">Creator and maintainer of the <a href="https://gitflix-br.vercel.app"><em><strong>GITFLIX</strong></em></a> project</h2>
+<h2 align="left">Creator and maintainer of the <a href="https://gitflix-br.vercel.app"><strong>GITFLIX</strong></a> project</h2>
