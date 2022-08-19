@@ -29,5 +29,3 @@
 ###
 
 ![Snake animation](https://github.com/willypedroso/willypedroso/blob/output/github-contribution-grid-snake.svg)
-
-###
