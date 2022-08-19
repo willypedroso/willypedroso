@@ -28,6 +28,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/willypedroso/willypedroso/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/willypedroso/willypedroso/blob/output/github-contribution-grid-snake.svg)
 
 ###
