@@ -32,9 +32,8 @@
   </a>
   <a href="https://www.linkedin.com/in/willyng-pedroso/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a> <a href = "mailto:willyng.pedroso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </a> <a href = "mailto:willyng.pedroso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="35"></a>
 </div>
-
 ###
 
 <div align="left">
