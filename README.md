@@ -46,5 +46,5 @@
 
 
 <h2 align="center">Creator and maintainer of the projects:</h2>
-<a align="center" href="https://gitflix-br.vercel.app"><img src="gitflix-logo.png"></a><br>
-<a align="center" href="https://metal-shows-collection.vercel.app"><img src="msc-logo.png"></a>
+<a href="https://gitflix-br.vercel.app"><img align="center" src="gitflix-logo.png"></a><br>
+<a href="https://metal-shows-collection.vercel.app"><img align="center" src="msc-logo.png"></a>
