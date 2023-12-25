@@ -19,16 +19,6 @@
 ###
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,py,cs,dotnet,mysql,postgres)](https://skillicons.dev)
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://user-images.githubusercontent.com/28990749/71623319-6795bf80-2bba-11ea-8401-6192d94f3fef.png" height="40" width="52" alt="nextjs logo"  />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" width="52" alt="eslint logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="52" alt="tailwindcss logo"  />
-  <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" height="40" width="52" alt="styledcomponents logo"/>
-</div>
 
 ###
 
