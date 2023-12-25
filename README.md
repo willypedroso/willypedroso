@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 1992;<br>📚 I'm currently learning Front-end development;<br>🎯 Goals: Making technology my livelihood;<br>🎸 Fun fact: I'm a guitar and bass player too...</p>
+<p align="left">✨ Creating bugs since 1992;<br>📚 Just a code creator;<br>🎯 Goals: Making people's lives better through technology;<br>🎸 Fun fact: I'm a guitar and bass player too...</p>
 
 ###
 
