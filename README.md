@@ -18,7 +18,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,ts,express,react,angular,nextjs,tailwind,py,flask,cs,dotnet,mysql,postgres,vscode,visualstudio,powershell,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,ts,express,react,angular,nextjs,tailwind,py,flask,cs,dotnet,mysql,postgres,vscode,visualstudio,powershell,linux&perline=5)](https://skillicons.dev)
 
 ###
 
