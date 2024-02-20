@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Will and I'm a Computer Science Student from Brazil.</p>
+<p align="left">My name is Will and I'm a RPA Developer from Brazil.</p>
 
 ###
 
@@ -38,4 +38,3 @@
 
 <h2 align="center">Creator and maintainer of the projects:</h2>
 <div align="center"><a href="https://gitflix-br.vercel.app"><img src="gitflix-logo.png"></a></div><br>
-<div align="center"><a href="https://metal-shows-collection.vercel.app"><img align="center" src="msc-logo.png"></a></div>
