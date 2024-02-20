@@ -37,4 +37,4 @@
 
 <h2 align="center">Creator and maintainer of the projects:</h2>
 <div align="center"><a href="https://gitflix-br.vercel.app"><img src="gitflix-logo.png"></a></div><br>
-<div align="center"><a href="https://github.com/willypedroso/top-stocks-b3"><img src="top-stocks-b3.png"></a></div>
+<div align="center"><a href="https://github.com/willypedroso/top-stocks-b3"><img src="top-stocks-b3-logo.png"></a></div>
